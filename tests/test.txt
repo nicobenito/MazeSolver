@@ -1,0 +1,10 @@
+/*
+add maze factory
+check each state
+
+check copier, return same maze
+
+check user, return right position
+
+check printer, use maze factory and display msj right
+*/
